@@ -1,3 +1,3 @@
-## Notes
+**Project Board**
 
-Project Board: https://github.com/orgs/datastructures-js/projects/3
+https://github.com/orgs/datastructures-js/projects/3
